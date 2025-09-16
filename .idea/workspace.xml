@@ -26,7 +26,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67151866-d39e-4e30-923c-c28ec5a6146c" name="Changes" comment="" />
+    <list default="true" id="67151866-d39e-4e30-923c-c28ec5a6146c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/QuationFour" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuationOne" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuationSecond" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuationThree" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +44,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BondarenkoDmitro"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BondarenkoDmitro/Beginning-of-studying-C-PROGRAMMING-BASED-ON-LINEAR-ALGORITHMS-.git",
+    "accountId": "1b703520-826b-4e02-99f0-3d53a4a5a376"
+  }
+}]]></component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2025" />
@@ -72,6 +89,7 @@
     "RunOnceActivity.west.config.association.type.startup.service": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/dmitriy/CLionProjects/first",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -142,7 +160,7 @@
       <workItem from="1757499066549" duration="7456000" />
       <workItem from="1758033047493" duration="301000" />
       <workItem from="1758040705291" duration="604000" />
-      <workItem from="1758041913651" duration="496000" />
+      <workItem from="1758041913651" duration="875000" />
     </task>
     <servers />
   </component>
