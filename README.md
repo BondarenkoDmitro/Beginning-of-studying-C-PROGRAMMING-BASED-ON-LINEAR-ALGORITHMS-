@@ -24,7 +24,7 @@ The program calculates the value of the expression `M` for the integer values `x
 
 The formula for the calculation is:
 
-![Formula M](https://latex.codecogs.com/svg.image?M&space;=&space;\frac{1.17\ln{\sqrt{1&plus;\cos^2{y}}}}{e^y&plus;\sin^2{x}})
+![Task conditions](2025-09-16_19-45.png)
 
 ---
 
@@ -54,4 +54,4 @@ The formula for the calculation is:
 
 Формула для вычисления:
 
-![Формула M](https://latex.codecogs.com/svg.image?M&space;=&space;\frac{1.17\ln{\sqrt{1&plus;\cos^2{y}}}}{e^y&plus;\sin^2{x}})
+![Task conditions](2025-09-16_19-45.png)
