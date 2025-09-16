@@ -1,0 +1,1 @@
+# Beginning-of-studying-C-PROGRAMMING-BASED-ON-LINEAR-ALGORITHMS-
