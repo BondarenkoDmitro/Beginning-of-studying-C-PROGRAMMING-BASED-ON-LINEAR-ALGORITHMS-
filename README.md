@@ -1,10 +1,4 @@
-# Laboratory Work No. 1: Programming with Linear and Branching Algorithms
-
-This repository contains the C++ source code for the tasks of Laboratory Work No. 1.
-
-## Objective
-
-To gain the knowledge and skills necessary for programming using linear and branching algorithms, and to learn how to apply them in practice while developing programs in the C++ programming language.
+# Programming with Linear and Branching Algorithms
 
 ---
 
@@ -35,15 +29,8 @@ The formula for the calculation is:
 ![Formula M](https://latex.codecogs.com/svg.image?M&space;=&space;\frac{1.17\ln{\sqrt{1&plus;\cos^2{y}}}}{e^y&plus;\sin^2{x}})
 
 ---
----
 
-# Лабораторная работа №1: Программирование на основе линейных и разветвленных алгоритмов
-
-Этот репозиторий содержит исходный код на C++ для выполнения заданий лабораторной работы №1.
-
-## Цель работы
-
-Получить знания и навыки, необходимые для программирования с использованием линейных алгоритмов и алгоритмов с разветвленной структурой, и научиться использовать их на практике в процессе разработки программ на языке программирования С++.
+# Программирование на основе линейных и разветвленных алгоритмов
 
 ---
 
