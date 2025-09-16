@@ -1,7 +1,5 @@
 # Programming with Linear and Branching Algorithms
 
----
-
 ## Tasks for Variant №3
 
 Four tasks were implemented as part of this work:
